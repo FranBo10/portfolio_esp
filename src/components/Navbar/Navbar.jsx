@@ -131,7 +131,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
                     </li>
                   </Link>
                   <li class="px-4 py-4 text-sm bg-gradient-to-b from-teal-500 cursor-pointer hover:scale-110 ease-in duration-200 shadow-sm">
-                    <a href="https://franbo10.github.io/francisco_cv/">
+                    <a href="https://franbo10.github.io/cv_esp/">
                       {" "}
                       Mi CV
                     </a>
