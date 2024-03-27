@@ -24,39 +24,13 @@ p {
 }
 
 .profil {
-    max-width: 90%;
-    margin: -44px -9px;  
+  max-width: 90%;
+  margin: -50px -8px;  
 }
 
 .avatar {
-  background-color: teal;
-  width: 60px; 
-  height: 80px; 
-  margin: 15px 5px 0 0; 
+  margin: 10px -18px;
 
-}
-
-.detalle-nav ul {
-
-  text-align: center;
-}
-
-.detalle-nav > ul > a {
-  text-decoration: none;
-
-}
-
-.detalle-nav > ul > a > li {
-  padding: 5px;
-  transition: all 300ms ease;
-}
-
-.detalle-nav > ul > a > li:hover {
-  transform: scale(1.1);
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
-  background-color: teal;
-  color: #fff;
-  border-radius: 3px;
 }
 .code {
   font-weight: 300;
